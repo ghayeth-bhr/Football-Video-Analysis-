@@ -60,21 +60,17 @@ A comprehensive football video analysis application with GPU-optimized object tr
 Here are some screenshots showcasing the application's capabilities:
 
 ### 📊 Team Statistics Dashboard
-![Team Statistics](asset/Screenshot%202025-07-30%20192719.png)
+![Team Statistics](asset/Screenshot%202025-07-30%20192511.png)
 
 ### 👥 Player Performance Analysis
-![Player Performance](asset/Screenshot%202025-07-30%20192652.png)
+![Player Performance](asset/Screenshot%202025-07-30%20192532.png)
+![Player Performance](asset/Screenshot%202025-07-30%20192546.png)
 
-### 🎥 Video Processing Interface
-![Video Processing](asset/Screenshot%202025-07-30%20192546.png)
+### 📈 Drawing Analysis Results
+![Detailed Analysis](asset/Screenshot%202025-07-30%20192652.png)
+![Detailed Analysis](asset/Screenshot%202025-07-30%20192719.png)
 
-### 📈 Detailed Analysis Results
-![Detailed Analysis](asset/Screenshot%202025-07-30%20192532.png)
-
-### 🔧 Application Settings
-![Application Settings](asset/Screenshot%202025-07-30%20192511.png)
-
-*These screenshots demonstrate the real-time player tracking, ball detection, and comprehensive performance analysis features of the application.*
+*These screenshots demonstrate the complete workflow from video upload to comprehensive analysis, including real-time player tracking, ball detection, and detailed performance metrics.*
 
 ## 🛠️ Local Installation Guide
 
