@@ -55,13 +55,26 @@ A comprehensive football video analysis application with GPU-optimized object tr
 - **Web Interface**: Streamlit-based user-friendly interface
 - **Real-time Processing**: Fast video analysis with GPU acceleration
 
-## 🎥 Demo Video
+## 🎥 Demo Images
 
-Watch the application in action! This demo shows the football video analysis capabilities including player tracking, ball detection, and performance metrics.
+Here are some screenshots showcasing the application's capabilities:
 
-https://github.com/your-username/Football-Video-Analysis/assets/demo.mp4
+### 📊 Team Statistics Dashboard
+![Team Statistics](asset/Screenshot%202025-07-30%20192719.png)
 
-*Note: The demo video showcases real-time player tracking, ball detection, and performance analysis on a football match.*
+### 👥 Player Performance Analysis
+![Player Performance](asset/Screenshot%202025-07-30%20192652.png)
+
+### 🎥 Video Processing Interface
+![Video Processing](asset/Screenshot%202025-07-30%20192546.png)
+
+### 📈 Detailed Analysis Results
+![Detailed Analysis](asset/Screenshot%202025-07-30%20192532.png)
+
+### 🔧 Application Settings
+![Application Settings](asset/Screenshot%202025-07-30%20192511.png)
+
+*These screenshots demonstrate the real-time player tracking, ball detection, and comprehensive performance analysis features of the application.*
 
 ## 🛠️ Local Installation Guide
 
